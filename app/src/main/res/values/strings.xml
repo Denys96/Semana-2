@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculo de la Renta</string>
+    <string name="titulo1">Impuesto Sobre la Renta</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Sueldo">Sueldo neto</string>
+    <string name="CALCULAR">bcalcular</string>
+
+    <string name="titulo2">Resultado del Impuesto sobre la Renta</string>
+    <string name="renta">Mostrar impuesto de Renta</string>
+    <string name="REGRESAR">regresar</string>
+    <string name="Nombre2">Su nombre es:</string>
+    <string name="Sueldo2">Sueldo neto es:</string>
+
+</resources>
